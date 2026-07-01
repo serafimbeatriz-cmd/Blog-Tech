@@ -11,10 +11,11 @@ main{
     color: #924444;
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 img{
     width: 150px;
     height: 150px;
-    text-align: center;
+    
 }
