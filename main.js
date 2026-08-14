@@ -2,7 +2,7 @@
 const botoes = document.querySelectorAll("button");
 
 
-botoes.forEach(function (botao);{
+botoes.forEach(function (botao) {
 
 
     let curtiu = false;
