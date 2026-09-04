@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 header {
-    background-color: #f3f6f9;
+    background-color: #e4eaef;
     color: #6d18bd;
     text-align: center;
     max-width: 800px;
@@ -13,7 +13,7 @@ header {
 }
 
 h1{
-    color: #0f0f70;
+    color: #6d18bd;
 }
 
 main{
