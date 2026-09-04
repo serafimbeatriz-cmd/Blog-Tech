@@ -13,11 +13,11 @@ header {
 }
 
 h1{
-    color: #17048f;
+    color: #11bf57;
 }
 
 main{
-    background-color: #d6cdcd;
+    background-color: #58c4c2;
     color: #924444;
     max-width: 800px;
     margin: 0 auto;
@@ -32,7 +32,7 @@ main{
 img{
     width: 150px;
     height: 150px;
-    border: 2px solid #17048f;
+    border: 2px solid #378f04;
     display: block;
     margin: 0 auto;
     align-self: center;
@@ -48,7 +48,7 @@ img{
 
 footer{ 
     background-color: #b4cbc5;
-    color: #013005;
+    color: #0f0f70;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
